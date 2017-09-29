@@ -1,0 +1,58 @@
+.header {
+  width: 100%;
+}
+
+.list-element-header li {
+  display: inline-block;
+  padding: 1em;
+  float: right;
+}
+
+.header-elems {
+  width: 100%;
+  float: right;
+}
+
+.list-element-header {
+  margin: 0;
+  padding-left: 0;
+}
+
+.navbar-header {
+  background-color: white;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #505456;
+}
+
+
+.logo-image {
+  max-height: 70px;
+  float: left;
+}
+
+.navbar-fixed-top {
+  position: fixed; /* <-- Look here */
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.nav-link {
+  color: #0F9EC0;
+}
+
+.btn-header {
+  color: #0F9EC0;
+  border-color: #0F9EC0;
+  background-color: white;
+  font-family: lato;
+  font-weight: 200;
+  border-radius: 0px;
+}
+
+.btn-header:hover {
+  color: white;
+  background-color: #0F9EC0;
+  border-color: #0F9EC0;
+}

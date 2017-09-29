@@ -1,0 +1,35 @@
+.signup {
+ padding-top: 100px;
+ padding-bottom: 2em;
+}
+
+.form-label {
+  clear: right;
+  padding: 1em;
+}
+
+.form-fields {
+  text-align: left;
+}
+
+.submit-button {
+  background-color: #0F9EC0;
+  border: 0;
+  box-shadow:none;
+  color: white;
+  font-family: lato;
+  font-weight: 200;
+  padding-left: 2em;
+  padding-right: 2em;
+  font-size: 24px;
+}
+
+.select-option {
+  background-color: white;
+  font-family: lato;
+  font-weight: 200;
+}
+
+input, label {
+  display: block;
+}

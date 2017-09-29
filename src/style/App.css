@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  font-family: lato;
+  font-weight: 200;
+  color: #505456;
+}
+
+.App h1 {
+  font-family: lato;
+  font-weight: 200;
+  font-size: 72px;
+  padding-bottom: 0.2em;
+}
+
+.App h2 {
+  font-family: lato;
+  font-weight: 200;
+  font-size: 56px;
+  padding-bottom: 0.5em;
+}
+
+.App h3 {
+  font-family: lato;
+  font-weight: 150;
+  font-size: 24px;
+  padding-bottom: 0.7em;
+  padding-top: 0.7em;
+}
+
+.App h4 {
+  font-family: lato;
+  font-weight: 200;
+  font-size: 24px;
+  padding-bottom: 0.2em;
+}
+
+.App h5 {
+  font-family: lato;
+  font-weight: 100;
+  font-size: 14px;
+  padding-bottom: 0.5em;
+}
+
+.App h6 {
+  font-family: lato, serif;
+  font-weight: 100;
+  font-size: 18px;
+  padding-bottom: 0.5em;
+}
+
+.App-logo {
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
