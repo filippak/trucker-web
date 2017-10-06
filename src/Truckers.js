@@ -14,7 +14,7 @@ const Truckers = () => (
         <div className="overlay-textbox">
           <h1 className="overlay-text"> Stuck on the road again? </h1>
           <h4 className="overlay-text"> No matter where you are, get back on the road with confidence with Checklight </h4>
-          <Link to='/signup'> <button className="btn btn-default btn-sign"> Sign up for instant help </button> </Link>
+          <Link to='/'> <button className="btn btn-default btn-sign"> Sign up for instant help </button> </Link>
         </div>
       </div>
     </div>
